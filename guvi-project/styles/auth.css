@@ -1,0 +1,14 @@
+.form {
+  width: 50%;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.auth-discription {
+  margin-top: 10px;
+}
